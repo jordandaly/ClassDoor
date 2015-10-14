@@ -9,8 +9,8 @@ import com.parse.ParseObject;
  * Created by jdaly on 06/10/2015.
  */
 public class ParseApplication extends Application {
-    public static final String YOUR_APPLICATION_ID = "XrA24jVj95M56K3IhahBvZpEOm2uTYH7gAWc3dEE";
-    public static final String YOUR_CLIENT_KEY = "qhIrrZKuq0praxDmPSLfyRobWNez1ZI78Lf3BNI4";
+    public static final String YOUR_APPLICATION_ID = "";
+    public static final String YOUR_CLIENT_KEY = "";
 
 
 
